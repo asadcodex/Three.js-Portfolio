@@ -95,13 +95,13 @@ export const myProjects = [
     ],
   },
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+    title: 'Fizzi',
+    desc: 'Stunning 3D-animated landing page for a fictional soda brand, demonstrating the powerful combination of modern web technologies and creative design.',
     subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      'Built as an immersive 3D product showcase with Next.js 14, Three.js, React Three Fiber, GSAP, and Tailwind CSS, Fizzi delivers a stunning, scroll-animated experience that brings a fictional soda brand to life through modern web technologies.',
+    href: 'https://fizzicodex.vercel.app/',
     texture: '/textures/project/project2.mp4',
-    logo: '/assets/project-logo2.png',
+    logo: '/assets/project-logo2.svg',
     logoStyle: {
       backgroundColor: '#13202F',
       border: '0.2px solid #17293E',
@@ -132,13 +132,13 @@ export const myProjects = [
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+    title: 'CodeSync',
+    desc: 'CodeSync is a comprehensive video collaboration platform built with cutting-edge technologies to provide seamless communication experiences. This application offers robust video calls, screen sharing, recording capabilities, and intuitive user management—all wrapped in a sleek, responsive interface.',
     subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      'Built as a comprehensive video collaboration solution with Next.js, Stream SDK, Clerk authentication, and Convex for real-time data synchronization, CodeSync delivers a high-performance platform for seamless video conferencing, screen sharing, and recording capabilities with an intuitive user experience.',
+    href: 'https://codexcodesync.vercel.app/',
     texture: '/textures/project/project3.mp4',
-    logo: '/assets/project-logo3.png',
+    logo: '/assets/project-logo3.ico',
     logoStyle: {
       backgroundColor: '#60f5a1',
       background:
@@ -171,13 +171,13 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    title: 'CodeCodex',
+    desc: 'Code Codex is a cutting-edge online IDE that transforms the way developers write, test, and share code. Built with the latest technologies and designed with developer experience in mind, it offers a seamless, feature-rich environment for coding enthusiasts and professionals alike.',
     subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+      'Built as a powerful online development environment with Next.js 15, TypeScript, Convex for real-time synchronization, and Clerk authentication, Code Codex delivers a feature-rich IDE experience with multi-language support, customizable themes, and comprehensive coding analytics for developers of all levels.',
+    href: 'https://asadcodex.vercel.app/',
     texture: '/textures/project/project4.mp4',
-    logo: '/assets/project-logo4.png',
+    logo: '/assets/project-logo4.ico',
     logoStyle: {
       backgroundColor: '#0E1F38',
       border: '0.2px solid #0E2D58',
@@ -207,43 +207,43 @@ export const myProjects = [
       },
     ],
   },
-  {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-    subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-    texture: '/textures/project/project5.mp4',
-    logo: '/assets/project-logo5.png',
-    logoStyle: {
-      backgroundColor: '#1C1A43',
-      border: '0.2px solid #252262',
-      boxShadow: '0px 0px 60px 0px #635BFF4D',
-    },
-    spotlight: '/assets/spotlight5.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
-    ],
-  },
+  // {
+  //   title: 'Imaginify - AI Photo Manipulation App',
+  //   desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+  //   subdesc:
+  //     'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
+  //   href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+  //   texture: '/textures/project/project5.mp4',
+  //   logo: '/assets/project-logo5.png',
+  //   logoStyle: {
+  //     backgroundColor: '#1C1A43',
+  //     border: '0.2px solid #252262',
+  //     boxShadow: '0px 0px 60px 0px #635BFF4D',
+  //   },
+  //   spotlight: '/assets/spotlight5.png',
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: 'React.js',
+  //       path: '/assets/react.svg',
+  //     },
+  //     {
+  //       id: 2,
+  //       name: 'TailwindCSS',
+  //       path: 'assets/tailwindcss.png',
+  //     },
+  //     {
+  //       id: 3,
+  //       name: 'TypeScript',
+  //       path: '/assets/typescript.png',
+  //     },
+  //     {
+  //       id: 4,
+  //       name: 'Framer Motion',
+  //       path: '/assets/framer.png',
+  //     },
+  //   ],
+  // },
 ];
 
 export const calculateSizes = (isSmall, isMobile, isTablet) => {
